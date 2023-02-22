@@ -5,3 +5,7 @@ git clone https://github.com/realme-mt6785-devs/android_device_realme_RM6785-ker
 git clone https://github.com/realme-mt6785-devs/proprietary_vendor_realme.git vendor/realme
 git clone https://github.com/realme-mt6785-devs/proprietary_vendor_realme-firmware vendor/realme-firmware
 git clone https://github.com/realme-mt6785-devs/vendor_mediatek_opensource_interfaces.git vendor/mediatek/opensource/interfaces
+
+
+
+
